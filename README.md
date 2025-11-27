@@ -1,6 +1,6 @@
 # Cod Reducere Sinsay
 
-O colecție de coduri de reducere Sinsay. Le folosim pentru testarea cuvintelor cheie cod reducere Sinsay, voucher Sinsay, cupon Sinsay, și cod promotional Sinsay de pe Cuponescu.ro.
+O colecție de coduri de reducere Sinsay. Le folosim pentru testarea cuvintelor cheie [cod reducere Sinsay](https://cuponescu.ro/magazin/sinsay), [voucher Sinsay](https://cuponescu.ro/magazin/sinsay), [cupon Sinsay](https://cuponescu.ro/magazin/sinsay), și [cod promotional Sinsay](https://cuponescu.ro/magazin/sinsay) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-sinsay a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
